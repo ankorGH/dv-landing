@@ -187,3 +187,37 @@ header .logo {
 .homeOverlay {
     background: rgba(255,255,255, 0.5);
 }
+
+/**************** Deploy Page ******************/
+
+.singleDeploy {
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+    margin-top: 0;
+    padding: 15px;
+}
+.singleDeploy {
+    line-height: 28px;
+    text-align: center;
+}
+.deployIcon > img {
+    max-height: 100%;
+}
+.singleDeploy .deployIcon {
+    height: 85px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+.deployContent .h3 {
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+.deployContent p {
+    margin: 0;
+}
+.deployContent input {
+    width: 90%;
+    border: none;
+    border-bottom: 1px solid #eaeaea;
+    margin-bottom: 13px;
+}
