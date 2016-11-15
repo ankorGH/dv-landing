@@ -221,3 +221,16 @@ header .logo {
     border-bottom: 1px solid #eaeaea;
     margin-bottom: 13px;
 }
+
+.mr-l-10  { margin-left: 10px; }
+.mr-l-20  { margin-left: 20px; }
+.mr-l-30  { margin-left: 30px; }
+.mr-l-40  { margin-left: 40px; }
+.mr-l-50  { margin-left: 50px; }
+.mr-l-60  { margin-left: 60px; }
+.mr-l-70  { margin-left: 70px; }
+.mr-l-80  { margin-left: 80px; }
+.mr-l-90  { margin-left: 90px; }
+.mr-l-100 { margin-left: 100px; }
+
+.txt-orange { color: #ed8100 !important; }
