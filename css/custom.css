@@ -234,3 +234,18 @@ header .logo {
 .mr-l-100 { margin-left: 100px; }
 
 .txt-orange { color: #ed8100 !important; }
+
+.deploy .sectionTitle p {
+    font-size: 18px;
+    line-height: 30px;
+}
+.deploy .sectionTitle {
+    margin-bottom: 40px;
+}
+.singleDeploy .Btn {
+    line-height: 37px;
+    min-width: 140px;
+}
+footer {
+    background: #E9F5FF;
+}
