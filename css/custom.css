@@ -339,9 +339,8 @@ footer {
 
 .signForm .signSubmit {
     margin: 0;
-    width: 40%;
+
     border-radius: 3px;
-    margin-left: 29%;
     margin-top: 10px;
 }
 
@@ -391,4 +390,8 @@ footer {
     font-size: 18px;
     margin-bottom: 20px;
     font-family: 'proxima_nova_rgbold'
+}
+.signMsg {
+    display: block;
+    text-align: center;
 }
